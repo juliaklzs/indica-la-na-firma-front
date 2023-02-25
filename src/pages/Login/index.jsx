@@ -3,6 +3,7 @@ import { useState } from "react";
 
 import IMG from "../../assets/Logo.jpg";
 import { LayoutComponents } from "../../components/Layout";
+import css from "../../assets/global.css";
 
  const Login = () => {
   const [email, setEmail] = useState("");

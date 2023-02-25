@@ -12,7 +12,7 @@ import SuggestedJobsList from "./SuggestedJobsList";
 import NavBar from "../../components/NavBar";
 import AutoCompleteSearch from "./AutoCompleteSearch";
 
-// api data exemple
+// api data example
 const apiSuggestedJobs = [
   {
     title: "Desenvolvedor nodeJs",

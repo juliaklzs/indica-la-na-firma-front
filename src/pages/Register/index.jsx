@@ -3,6 +3,7 @@ import { useState } from "react";
 import { LayoutComponents } from "../../components/Layout"
 
 import IMG from '../../assets/Logo.jpg'
+import css from "../../assets/global.css";
 
 
 const Register = () => {

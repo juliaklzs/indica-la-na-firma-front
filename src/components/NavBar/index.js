@@ -22,7 +22,7 @@ const NavBar = () => {
           <Tooltip style={{ float: "right" }} title="Open settings">
             <IconButton sx={{ p: 0 }}>
               <Avatar
-                alt="Remy Sharp"
+                alt="Foto de Perfil"
                 src="https://avatars.githubusercontent.com/u/36340073?s=400&u=2426b833712b87aac6bd12ed684481c4219a9cd2&v=4"
               />
             </IconButton>
